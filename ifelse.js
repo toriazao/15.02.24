@@ -1,7 +1,7 @@
 -3
 function verificarLogin() {
-    let txtlogin = document.getElementById
-    let txtsenha = document.getElementById
+    let txtlogin = document.getElementById('txtLogin');
+    let txtsenha = document.getElementById('txtSenha');
 
     let login = "teste";
     login = "teste2";
